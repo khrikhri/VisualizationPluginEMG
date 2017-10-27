@@ -17,7 +17,10 @@ public class EMGVisConfig implements VisualizableConfiguration {
     private String id;
     EMGPlayer player;
     List<File> files;
-    private final String[] creators = {"capturepluginbitalino.BitalinoRecorder"};
+    private final String[] creators = {"capturepluginbitalino.BitalinoRecorder1",
+    "capturepluginbitalino.BitalinoRecorder3",
+    "capturepluginbitalino.BitalinoRecorder5",
+    "capturepluginbitalino.BitalinoRecorder6"};
     
 
     public EMGVisConfig() {
